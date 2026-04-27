@@ -29,8 +29,8 @@
 
 ## Архитектура проекта:
 
-- **[spider](https://github.comai-science-articles-aggregator/spider)** — парсер статей
-- **[core-ml](https://github.com/ai-science-articles-aggregators/ml-cores)** – ml модели
+- **[spider](https://github.com/ai-science-articles-aggregator/spider)** — парсер статей
+- **[core-ml](https://github.com/ai-science-articles-aggregator/ml_cores)** – ml модели
 - **[core-engine](https://github.com/ai-science-articles-aggregator/core-engine)** – rest-api
 - **[papyrus](https://github.com/ai-science-articles-aggregator/career-compass)** – веб-интерфейс, Frontend Application
 - **[citadel](https://github.com/ai-science-articles-aggregator/citadel)** – инфраструктура проекта (CI/CD)
