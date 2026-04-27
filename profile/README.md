@@ -29,8 +29,8 @@
 
 ## Архитектура проекта:
 
-- **[spider](https://github.com/ml-career-analysis/spider)** — парсер статей
-- **[core-ml](https://github.com/ml-career-analysis/ml-core)** – ml модели
-- **[core-engine](https://github.com/ml-career-analysis/core-engine)** – rest-api
-- **[papyrus](https://github.com/ml-career-analysis/career-compass)** – веб-интерфейс, Frontend Application
-- **[citadel](https://github.com/ml-career-analysis/citadel)** – инфраструктура проекта (CI/CD)
+- **[spider](https://github.comai-science-articles-aggregator/spider)** — парсер статей
+- **[core-ml](https://github.com/ai-science-articles-aggregators/ml-cores)** – ml модели
+- **[core-engine](https://github.com/ai-science-articles-aggregator/core-engine)** – rest-api
+- **[papyrus](https://github.com/ai-science-articles-aggregator/career-compass)** – веб-интерфейс, Frontend Application
+- **[citadel](https://github.com/ai-science-articles-aggregator/citadel)** – инфраструктура проекта (CI/CD)
