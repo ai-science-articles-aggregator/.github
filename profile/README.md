@@ -32,6 +32,6 @@
 - **[spider](https://github.com/ai-science-articles-aggregator/spider)** — парсер статей
 - **[core-ml](https://github.com/ai-science-articles-aggregator/ml_cores)** – ml модели
 - **[core-engine](https://github.com/ai-science-articles-aggregator/core-engine)** – rest-api
-- **[papyrus](https://github.com/ai-science-articles-aggregator/career-compass)** – веб-интерфейс, Frontend Application
+- **[papyrus](https://github.com/ai-science-articles-aggregator/papyrus)** – веб-интерфейс, Frontend Application
 - **[citadel](https://github.com/ai-science-articles-aggregator/citadel)** – инфраструктура проекта (CI/CD)
 - **[proto_contracts](https://github.com/ai-science-articles-aggregator/proto_contracts)** – gRPC контракты
