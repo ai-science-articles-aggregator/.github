@@ -10,7 +10,7 @@ __Демо стенд проекта:__ http://176.124.222.138/
 
 | Участник                                                    | @telegram     |
 | ----------------------------------------------------------- | ------------- |
-| [Мовсумов Денис Асифович](https://github.com/DMovsumov)     | @Denis_movsum |
+| [Мовсумов Денис Асифович](https://github.com/DMovsumov)     | @Denji_TensAI |
 | [Коноплев Роман Алексеевич](https://github.com/Hollenhaunf) | @hollenhanf   |
 | [Крылов Александр Вячеславович](https://github.com/Kaderah) | @ooooofsa     |
 | [Абакумов Юрий Максимович](https://github.com/fluloeo)      | @fluloeo      |
